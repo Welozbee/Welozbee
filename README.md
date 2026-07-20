@@ -6,8 +6,6 @@ I enjoy every part of IT, but the one I love the most is **software development*
 
 I was born in Portugal and moved to Switzerland when I was 12. Today, I'm studying software development through an **apprenticeship at MCR Solutions SA**.
 
----
-
 ## Technologies 🔧
 
 **Languages & Frameworks**
@@ -27,8 +25,6 @@ I was born in Portugal and moved to Switzerland when I was 12. Today, I'm studyi
 - VSCode
 - Git & GitHub
 - Linux (Still learning but loving it)
-
----
 
 ## Experience 💼
 
