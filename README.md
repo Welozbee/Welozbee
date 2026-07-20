@@ -4,7 +4,7 @@ I started working in software development when I was **14 years old** — it was
 
 I enjoy every part of IT, but the one I love the most is **software development**.
 
-I was born in Portugal and moved to Switzerland when I was 12. Today, I'm studying software development through an **apprenticeship at (MCR Solutions SA)[https://mcr-solutions.com/]**.
+I was born in Portugal and moved to Switzerland when I was 12. Today, I'm studying software development through an **apprenticeship at [MCR Solutions SA](https://mcr-solutions.com/)**.
 
 ## Technologies 🔧
 
